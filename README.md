@@ -1,8 +1,3 @@
----
-
-### 🧱 README.md for `sql-practice`
-
-```markdown
 # 🗄️ SQL Practice
 
 This repository contains my SQL practice queries and exercises as I build a strong foundation for data analysis and database work.
